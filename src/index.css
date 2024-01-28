@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.border-start::after {
+  content: "";
+  position: absolute;
+  left: 20px;
+  bottom: 0;
+  width: calc(100% - 40px);
+  height: 1px;
+  background-color: #d9d9d9;
+  z-index: 1;
+}
+
+.border-end::after {
+  content: "";
+  position: absolute;
+  right: 16px;
+  bottom: 0;
+  width: calc(100% - 36px);
+  height: 1px;
+  background-color: #d9d9d9;
+  z-index: 1;
+}
