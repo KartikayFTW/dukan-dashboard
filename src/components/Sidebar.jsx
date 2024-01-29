@@ -13,7 +13,7 @@ import DiscountsIcon from "../assets/DiscountsIcon.png";
 import AudienceIcon from "../assets/AudienceIcon.png";
 import AppearanceIcon from "../assets/AppearanceIcon.png";
 import PluginsIcon from "../assets/PluginsIcon.png";
-import WalletIcon from "../assets/Wallet.png";
+import WalletIcon from "../assets/wallet.png";
 import CancelIcon from "../assets/cross.png";
 import SidebarItem from "./SidebarItem";
 import { useSidebarContext } from "../context/SidebarContext";
