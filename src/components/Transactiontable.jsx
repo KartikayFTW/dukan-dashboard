@@ -40,10 +40,10 @@ const Transactiontable = () => {
                 7 July, 2023
               </td>
               <td className="w-1/4 text-left pl-8 font-medium text-sm text-[#4D4D4D] ">
-                $1278.23
+              ₹ 1278.23
               </td>
               <td className="w-1/4 text-right pr-4 font-medium text-sm text-[#4D4D4D] border-end ">
-                $22
+              ₹ 22
               </td>
             </tr>
           ))}

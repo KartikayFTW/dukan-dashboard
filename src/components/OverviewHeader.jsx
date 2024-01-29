@@ -7,7 +7,7 @@ const OverviewHeader = () => {
         Overview
       </span>
       <div className="flex justify-center items-center bg-white rounded-sm border border-[#D9D9D9] gap-2 px-3 py-1">
-        <span class=" text-gray-900  leading-6 ">Last Month</span>
+        <span className=" text-gray-900  leading-6 ">Last Month</span>
         <img src={ArrowIcon} className="w-4 h-4" />
       </div>
     </div>

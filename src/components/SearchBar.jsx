@@ -7,7 +7,7 @@ const SearchBar = () => {
       <input
         type="text"
         placeholder="Search by order ID..."
-        className="text-[#999] text-sm w-64 px-12 text-left py-2 border border-[#D9D9D9] rounded-[4px]"
+        className="text-[#999] text-sm sm:w-full w-1/2  px-12 text-left py-2 border border-[#D9D9D9] rounded-[4px] focus:outline-none"
       />
     </div>
   );
