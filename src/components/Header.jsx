@@ -2,7 +2,7 @@ import React from "react";
 import HelpIcon from "../assets/Help.png";
 import SearchIcon from "../assets/search.png";
 import GroupIcon from "../assets/Group.png";
-import MenuIcon from "../assets/menu.png";
+import MenuIcon from "../assets/Menu.png";
 import MobileMenuIcon from "../assets/arrange.png";
 import EllipseIcon from "../assets/Ellipse.png";
 import { useSidebarContext } from "../context/SidebarContext";
